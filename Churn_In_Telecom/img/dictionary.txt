@@ -1,0 +1,28 @@
+# === DICTIONARY for the raw data "Churn in Telecom's dataset" ===
+
+# MEMORY USAGE ----------- 524.1 KB
+# DATA COLUMNS ----------- 21
+# DATA ENTRIES ----------- 3333 
+# Types ------------------ float64(For 8 columns), int64(For 8 columns), object(For 4 columns), bool(For 1 column)
+
+# State ----------------- State in USA ---------------------- Type: int64
+# Account length -------- Length of the acc ----------------- Type: int64
+# Area code ------------- Special area codes     ------------ Type: int64
+# Phone number ---------- Phone number ---------------------- Type: object
+# International plan ---- Type of customer plan ------------- Type: object
+# Voice mail plan ------- Type of customer plan ------------- Type: object
+# Number vmail messages - Number messages ------------------- Type: int64
+# Total day minutes ----- Minutes during day time ----------- Type: float64
+# Total day calls ------- Times calls during day time ------- Type: int
+# Total day charge ------ Charge during day time ------------ Type: float64
+# Total eve minutes ----- Minutes during eve time ----------- Type: float64
+# Total eve calls ------- Times calls during eve time ------- Type: int64
+# Total eve charge ------ Charge during eve time ------------ Type: float64
+# Total night minutes --- Minutes during night time --------- Type: float64
+# Total night calls ----- Times calls during night time ----- Type: int64
+# Total night charge ---- Charge during night time ---------- Type: float64
+# Total intl minutes ---- Minutes for international --------- Type: float64
+# Total intl calls ------ Times international calls --------- Type: int64
+# Total intl charge ----- Charge for international ---------- Type: float64
+# Customer serv calls --- Times calls to Service ------------ Type: int64
+# churn ----------------- Target (who will churn) ----------- Type: bool
